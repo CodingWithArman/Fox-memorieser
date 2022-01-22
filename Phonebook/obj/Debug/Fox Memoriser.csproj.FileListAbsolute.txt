@@ -1,0 +1,12 @@
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\bin\Debug\Fox Memorieser.exe.config
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\bin\Debug\Fox Memorieser.exe
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\bin\Debug\Fox Memorieser.pdb
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\bin\Debug\Fox Memorieser.exe.CodeAnalysisLog.xml
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\bin\Debug\Fox Memorieser.exe.lastcodeanalysissucceeded
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\obj\Debug\Phonebook.Form1.resources
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\obj\Debug\Fox_Memorieser.Properties.Resources.resources
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\obj\Debug\Phonebook.testing.resources
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\obj\Debug\Fox Memoriser.csproj.GenerateResource.Cache
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\obj\Debug\Fox Memorieser.exe
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\obj\Debug\Fox Memorieser.pdb
+F:\Arman\My Data\Projects\form Application\Phonebook\Phonebook\obj\Debug\Fox Memoriser.csprojResolveAssemblyReference.cache
